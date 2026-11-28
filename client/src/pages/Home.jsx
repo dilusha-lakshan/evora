@@ -8,35 +8,12 @@ function Home() {
       <div className="w-full max-w-xl space-y-8">
 
         <h1 className="text-4xl font-bold text-primary">
-          EVORA COMPONENTS
+          Be Ready to Host Your Next Event
         </h1>
 
-        <Card hover className="space-y-6 p-8">
-          <Input
-            label="Email Address"
-            id="test-email"
-            placeholder="Enter your email"
-          />
-
-          <Input
-            label="Password"
-            id="test-password"
-            inputType="password"
-            placeholder="Enter your password"
-          />
-
-          <div className="flex flex-wrap gap-4">
-            <Button>Default</Button>
-
-            <Button variant="secondary">
-              Secondary
-            </Button>
-
-            <Button variant="outline">
-              Outline
-            </Button>
-          </div>
-        </Card>
+        <h2 className="text-lg text-secondary">
+          Comming Soon
+          </h2>
 
       </div>
     </div>
